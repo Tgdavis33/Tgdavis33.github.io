@@ -1,2 +1,2 @@
 # COMUNIDAD AL ENCUENTRO CON DIOS
-# <p align="center"> <b> Bienvenidos</b> </p>
+# <div align="center">Bienvenidos</div>
