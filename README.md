@@ -1,2 +1,5 @@
 # COMUNIDAD AL ENCUENTRO CON DIOS
-# <p align="center"> Bienvenidos
+<p align="center">
+<b>Bienvenidos</b><br>
+  <br><br>
+</p>
