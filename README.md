@@ -1,1 +1,2 @@
-# Bienvenidos hermanos a nuestra Comunidad
+# COMUNIDAD AL ENCUENTRO CON DIOS
+Bienvenidos
